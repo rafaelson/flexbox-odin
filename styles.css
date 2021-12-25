@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+}
+
+.section-1 {
+  background-color: #1f2937;
+  padding-bottom: 30px;
+}
+
+.section-3 {
+  background-color: #e5e7eb;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  gap: 1.5em;
+  list-style-type: none;
+}
+
+.title {
+  font-size: 24px;
+  color: #f9faf8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 200px;
+}
+.menu {
+  font-size: 18px;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 200px;
+}
+
+.container-1 {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.cont-1-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container-2 {
+  margin-bottom: 30px;
+}
+
+.container-3 {
+  padding-top: 150px;
+  display: flex;
+  padding-bottom: 150px;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
+
+.text-1 {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+}
+
+.subtext-1 {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.button-1 {
+  font-size: 18px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 8px;
+  max-width: fit-content;
+  padding: 8px 32px;
+  color: #f9f8fa;
+  background-color: #3882f6;
+}
+
+.text-2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 800;
+  display: flex;
+  justify-content: center;
+}
+
+.text-3 {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  display: flex;
+  justify-content: center;
+}
+
+.text-4 {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 210px;
+}
+
+.boxes {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.box {
+}
+
+.text-box {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.img-1 {
+  height: 350px;
+  width: auto;
+  border: 2.5px solid #3882f6;
+  border-radius: 15px;
+}
+.img-2 {
+  height: 240px;
+  width: auto;
+  border: 5px solid #3882f6;
+  border-radius: 15px;
+}
